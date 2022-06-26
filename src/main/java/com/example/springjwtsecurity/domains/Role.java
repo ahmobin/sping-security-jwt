@@ -1,4 +1,4 @@
-package com.example.springjwtsecurity.domain;
+package com.example.springjwtsecurity.domains;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
